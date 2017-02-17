@@ -11,7 +11,7 @@ public class BubbleSort {
                
           
           int intArray[] = new int[]{24,15,7,97,34,65,21,43};
-               
+               bubbleSort(intarray);
               /*  System.out.println("Array Before Bubble Sort");
                 for(int i=0; i < intArray.length; i++){
                         System.out.print(intArray[i] + " ");
